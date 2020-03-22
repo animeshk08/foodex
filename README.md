@@ -1,6 +1,6 @@
 # FoodEx
 
-Foodex, a platform that connects people with nearby restaurants to order delicious food on the go.
+Foodex, a platform that connects people with nearby restaurants to order delicious food on the go. :pizza:
 
 Order food & beverages online from restaurants near & around you. We provide customers with a platform to get food delivered from neighborhood local joints, favorite cafes, luxurious & elite restaurants. Our Platform, Foodex caters to the need for both the hungry foodies and the restaurants, providing a surreal experience for the foodies and an intuitive front end for the restaurant owners to manage their restaurants.
 
@@ -169,13 +169,13 @@ menu. The also `add` and `apply` offers of their choice to provide the foodies.
 
 Following tools and framework are used in this project:
 
-* PyCharm
-* HTML
-* CSS
-* JavaScript
-* MySQL
-* Python
-* Django framework
+* [PyCharm](#pycharm-)
+* [HTML](#html-)
+* [CSS](#css-)
+* [JavaScript](#javascript-)
+* [MySQL](#mysql-)
+* [Python](#python-)
+* [Django framework](#django-framework-)
 
 #### PyCharm [&uarr;](#tools-and-framework-)
 
